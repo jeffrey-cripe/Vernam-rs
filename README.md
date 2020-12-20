@@ -1,4 +1,4 @@
-## Vernam-rs
+# Vernam-rs
 
 Simple one time pad generator written in Rust.
 
@@ -6,6 +6,6 @@ Implemented purely as a coding kata and for my own understanding. Feel free to u
 
 ![picture](res/demo.png)
 
-# License
+## License
 
 MIT
